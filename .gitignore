@@ -1,0 +1,15 @@
+# build outputs
+*.exe
+*.exe~
+*.zip
+build.log
+
+# Steamworks SDK binary (download it from the Steamworks SDK, see README)
+steam_api64.dll
+
+# editor / OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
